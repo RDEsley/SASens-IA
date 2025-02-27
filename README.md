@@ -1,51 +1,61 @@
-# Análise de Sentimentos com IA
+# SASENS IA – Sistema de Análise de Sentimentos AI 📱
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Sentiment%20Analysis-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Bem-vindo ao repositório do projeto de Análise de Sentimentos com IA! Este projeto foi desenvolvido como parte do projeto integrador da faculdade e tem como objetivo classificar o sentimento expresso em textos, como comentários, avaliações ou postagens em redes sociais.
+## Descrição
 
-## 📋 Descrição do Projeto
+SASENS IA é uma ferramenta avançada de análise de sentimentos que utiliza **Processamento de Linguagem Natural (NLP)** para identificar emoções em textos. Com suporte para dados coletados de redes sociais como **Twitter**, além de textos inseridos manualmente (comentários, avaliações, artigos, mensagens, etc.), o sistema fornece insights valiosos sobre a percepção do público.
 
-O projeto consiste em uma aplicação de Inteligência Artificial capaz de analisar e classificar o sentimento de textos. A IA foi treinada utilizando técnicas de Machine Learning e Deep Learning, e pode ser integrada em sistemas web ou mobile para fornecer análises em tempo real.
+O projeto combina **Python, React.js, MongoDB** e técnicas de NLP para criar uma solução completa de análise e visualização de sentimentos.
 
-### Principais Funcionalidades
+---
 
-- **Classificação de Sentimentos**: Analisa textos e retorna o sentimento predominante.
-- **Interface Amigável**: Integração com uma interface web para facilitar a interação do usuário.
-- **Modelos de Machine Learning**: Utilização de modelos como Naive Bayes, SVM, LSTM e BERT.
-- **API RESTful**: Disponibiliza uma API para integração com outras aplicações.
+## 🚀 Tecnologias Utilizadas
 
-## 🚀 Como Usar
+### 🔹 Back-end (Processamento de Texto e API)
+- **Linguagem:** Python
+- **Análise de Sentimentos:** pysentimiento
+- **Frameworks para API:** Flask ou FastAPI
 
-### Pré-requisitos
+### 🔹 Front-end (Visualização e Interface do Usuário)
+- **Linguagem:** JavaScript
+- **Framework:** React.js
+- **Estilização:** HTML, CSS e JS
 
-- Python 3.8 ou superior
-- Bibliotecas Python: `numpy`, `pandas`, `scikit-learn`, `tensorflow`, `flask`
+### 🔹 Banco de Dados (Armazenamento de Resultados)
+- **Banco:** MongoDB
 
-## 🛠️ Tecnologias Utilizadas
+---
 
-- **Python**: Linguagem principal do projeto.
-- **Scikit-learn**: Para modelos de Machine Learning tradicionais.
-- **TensorFlow/Keras**: Para modelos de Deep Learning.
-- **Flask**: Para criação da API e interface web.
-- **NLTK/Spacy**: Para pré-processamento de textos.
+## 🛠 Contribuição
 
-## 📊 Conjunto de Dados
+Contribuições são bem-vindas! Para colaborar:
 
-O modelo foi treinado utilizando o conjunto de dados IMDb Reviews, que contém 50.000 avaliações de filmes rotuladas como positivas ou negativas.
+1. Faça um **fork** do repositório.
+2. Crie uma **branch** para a nova feature:
+   ```sh
+   git checkout -b minha-feature
+   ```
+3. Faça o **commit** das mudanças:
+   ```sh
+   git commit -m "Adiciona nova funcionalidade"
+   ```
+4. Envie para o repositório remoto:
+   ```sh
+   git push origin minha-feature
+   ```
+5. Abra um **Pull Request** no GitHub.
 
-## 📝 Licença
+---
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+## 📜 Licença
 
-## 🤝 Contribuição
+Este projeto está licenciado sob a **MIT License** – veja o arquivo `LICENSE` para mais detalhes.
 
-Contribuições são bem-vindas! Se você quiser contribuir, por favor, faça um fork do repositório e crie um pull request com suas alterações.
+---
 
 ## 📞 Contato
 
-Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
-
-Desenvolvido com ❤️ por [Richard, Fernanda & Matheus].
+🚀 Desenvolvido com ❤️ por [Richard, Fernanda & Matheus].
