@@ -6,7 +6,7 @@
 
 ## Descrição
 
-SASENS IA é uma ferramenta avançada de análise de sentimentos que utiliza **Processamento de Linguagem Natural (NLP)** para identificar emoções em textos. Com suporte para dados coletados de redes sociais como **Twitter**, além de textos inseridos manualmente (comentários, avaliações, artigos, mensagens, etc.), o sistema fornece insights valiosos sobre a percepção do público.
+SASENS IA é uma ferramenta avançada de análise de sentimentos que utiliza **Processamento de Linguagem Natural (NLP)** para identificar emoções em textos. Com suporte para dados coletados de redes sociais como **Instagram**, além de textos inseridos manualmente (comentários, avaliações, artigos, mensagens, etc.), o sistema fornece insights valiosos sobre a percepção do público.
 
 O projeto combina **Python, React.js, MongoDB** e técnicas de NLP para criar uma solução completa de análise e visualização de sentimentos.
 
