@@ -16,7 +16,7 @@ O projeto combina **Python, React.js, MongoDB** e técnicas de NLP para criar um
 
 ### 🔹 Back-end (Processamento de Texto e API)
 - **Linguagem:** Python
-- **Análise de Sentimentos:** pysentimiento
+- **Análise de Sentimentos:** pysentimiento (aqui podemos inserir outros modelos. obs: pesquisar)
 - **Frameworks para API:** Flask ou FastAPI
 
 ### 🔹 Front-end (Visualização e Interface do Usuário)
